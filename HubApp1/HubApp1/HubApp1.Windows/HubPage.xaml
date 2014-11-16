@@ -149,5 +149,8 @@
                 </DataTemplate>
             </HubSection>
         </Hub>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="154,282,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="216,314,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="308,341,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Page>
